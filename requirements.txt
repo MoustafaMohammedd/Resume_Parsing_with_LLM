@@ -1,0 +1,9 @@
+langchain-community==0.3.30
+PyMuPDF==1.26.4
+langchain-openai==0.3.34 
+python-dotenv==1.1.1
+fastapi==0.118.0
+uvicorn==0.37.0
+docx2tx==0.9
+numpy==2.3.3 
+pandas==2.3.3 
