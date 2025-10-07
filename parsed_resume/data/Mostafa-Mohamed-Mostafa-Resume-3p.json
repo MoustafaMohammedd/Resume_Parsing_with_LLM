@@ -1,0 +1,175 @@
+{
+    "contactInformation": {
+        "name": "Mostafa Mohamed Mostafa",
+        "email": "mostafaelkazaz149@gmail.com",
+        "phoneNumber": "+201025823935",
+        "websitePortfolio": [
+            "LinkedIn",
+            "Github"
+        ]
+    },
+    "education": {
+        "institutionName": "Helwan University",
+        "degree": "Bachelor of Biomedical Engineering",
+        "fieldOfStudy": "Biomedical Engineering",
+        "graduationDates": "2020 \u2013 2025",
+        "grade": "Excellent (88%)",
+        "honors": "Graduated with Honors (Top 5% of class)"
+    },
+    "experience": [
+        {
+            "jobTitle": "Deep Learning Intern",
+            "companyName": "National Telecommunication Institute (NTI)",
+            "location": "Cairo",
+            "dates": "Feb 2025 \u2013 Apr 2025",
+            "responsibilities": [
+                "Built CNNs and deep learning models using PyTorch and TensorFlow",
+                "Deployed classification models and evaluated their performance"
+            ]
+        },
+        {
+            "jobTitle": "Machine Learning Intern",
+            "companyName": "National Telecommunication Institute (NTI)",
+            "location": "Cairo",
+            "dates": "Oct 2024 \u2013 Dec 2024",
+            "responsibilities": [
+                "Developed ML models with Python, Scikit-learn, and TensorFlow",
+                "Focused on preprocessing pipelines, model tuning, and evaluation"
+            ]
+        },
+        {
+            "jobTitle": "Machine Learning Intern",
+            "companyName": "IEEE-Helwan",
+            "location": "Cairo",
+            "dates": "Sep 2023 \u2013 Nov 2023",
+            "responsibilities": [
+                "Worked on team AI projects, enhancing collaboration and problem-solving skills"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Medical Q&A with RAG (Retrieval-Augmented Generation)",
+            "description": "Built a voice- and text-based AI medical assistant using LangChain and LLMs (LLaMA 3)",
+            "technologies": [
+                "LangChain",
+                "LLaMA 3",
+                "NLP",
+                "document retrieval"
+            ],
+            "outcomes": "Utilized advanced NLP and document retrieval techniques to ensure reliable responses"
+        },
+        {
+            "title": "Image Captioning",
+            "description": "Image captioning system using PyTorch with ResNet-50 encoder and LSTM-based decoder",
+            "technologies": [
+                "PyTorch",
+                "ResNet-50",
+                "LSTM",
+                "Flickr-8k dataset"
+            ],
+            "outcomes": "Generated image descriptions trained on Flickr-8k dataset, evaluated qualitatively"
+        },
+        {
+            "title": "Named Entity Recognition (NER)",
+            "description": "Comparative study of LSTM and BERT architectures for Named Entity Recognition",
+            "technologies": [
+                "LSTM",
+                "BERT",
+                "deep learning"
+            ],
+            "outcomes": "Achieved almost similar performance across both models in entity classification tasks"
+        },
+        {
+            "title": "Sarcasm Detection",
+            "description": "Identifying sarcastic statements in textual data using NLP techniques",
+            "technologies": [
+                "BERT",
+                "LSTM",
+                "NLP"
+            ],
+            "outcomes": "BERT: F1-score 90.6% | LSTM: F1-score 83.2%"
+        },
+        {
+            "title": "NYC Taxi Trip Duration",
+            "description": "Predict ride duration of taxi trips in New York City",
+            "technologies": [
+                "Kaggle competition"
+            ],
+            "outcomes": "RMSE: 0.4012 and R\u00b2: 0.7485 on validation set"
+        },
+        {
+            "title": "Credit Card Fraud Detection",
+            "description": "Fraud detection using highly unbalanced dataset",
+            "technologies": [],
+            "outcomes": "Achieved 85% PR_AUC"
+        },
+        {
+            "title": "ECG Classification",
+            "description": "ECG arrhythmia classifier in TensorFlow",
+            "technologies": [
+                "TensorFlow"
+            ],
+            "outcomes": "Reduced false positive rate by 15%, improving clinical decision-making support"
+        },
+        {
+            "title": "Vehicle Recognition \u2013 Modifier 8.0 Hackathon (2nd Place)",
+            "description": "Recognize different types of vehicles from images using deep learning approaches",
+            "technologies": [
+                "VGG16",
+                "Random Forest",
+                "InceptionResNetV2",
+                "custom CNN"
+            ],
+            "outcomes": "Achieved validation accuracy: 95%, 2nd Place in hackathon"
+        }
+    ],
+    "skills": {
+        "programmingLanguages": [
+            "Python",
+            "R",
+            "C++"
+        ],
+        "technologiesTools": [
+            "PyTorch",
+            "TensorFlow",
+            "Scikit-learn",
+            "Keras",
+            "Hugging Face Transformers",
+            "OpenCV",
+            "YOLOv10/11",
+            "EfficientSAM",
+            "U-Net",
+            "RAG",
+            "LangChain",
+            "BERT",
+            "LSTM",
+            "LLaMA",
+            "GPT",
+            "NLTK",
+            "Pandas",
+            "NumPy",
+            "SQL",
+            "Matplotlib",
+            "Git",
+            "GitHub"
+        ]
+    },
+    "additionalInformation": {
+        "certifications": [
+            "Digital Egypt Pioneers Initiative (DEPI) Scholarship in Generative AI",
+            "Practical Large Language Models (LLM) - Udemy",
+            "Machine Learning Diploma - CSkilled",
+            "ML & DL Optimizers \u2013 Theory & Implementation - Udemy",
+            "Machine Learning Specialization - Coursera"
+        ],
+        "awardsHonors": [
+            "Graduated with Honors (Top 5% of class)",
+            "2nd Place - Modifier 8.0 Hackathon"
+        ],
+        "languages": [
+            "English: Very Good",
+            "Arabic: Native"
+        ]
+    }
+}
